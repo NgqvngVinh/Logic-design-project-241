@@ -1,0 +1,21 @@
+# PlatformIO build artifacts
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# VS Code per-user config
+.vscode/
+
+# Secrets / env
+.env
+.env.*
+!.env.example
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Editor backups
+*~
+*.bak
+*.swp
